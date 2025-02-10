@@ -1,0 +1,1 @@
+import{m as t,d as n,c as r,j as e,R as i,W as o}from"./defaults.js";function c(){import.meta.url,import("_").catch(()=>1),async function*(){}().next()}const a=new t.QueryClient({defaultOptions:n});r.createRoot(document.getElementById("iframe")).render(e.jsx(i.StrictMode,{children:e.jsx(t.QueryClientProvider,{client:a,children:e.jsx(o,{})})}));export{c as __vite_legacy_guard};
